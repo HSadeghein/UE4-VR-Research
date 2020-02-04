@@ -3,6 +3,13 @@
 	"EngineAssociation": "4.22",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "LiveLinkMvnPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/8665afd60be74d39a08f1410c3dc333b"
+		}
+	],
 	"TargetPlatforms": [
 		"PS4",
 		"WindowsNoEditor"
